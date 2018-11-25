@@ -1,0 +1,23 @@
+@import 'allShared';
+
+.err, .resInfo {
+	font-family: Helvetica;
+	position: absolute;
+	top: $infoTop;
+	left: 20%;
+	width: 50%;
+	height: $infoHt
+}
+
+.err{
+	color: red;
+}
+
+
+.mapDiv{
+	position: absolute;
+	top: $mapTop;
+	left: 15%;
+	height: 60%;
+	width: 60%;
+}

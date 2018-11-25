@@ -1,0 +1,19 @@
+@import 'allShared';
+
+.wrapper{
+	right: 5%;
+	position: absolute;
+	top: $headerHt;
+	height: $headerHt - $mapTop;
+}
+
+.inputCont{
+	display: inline-block;
+	width: 100px;
+	margin-top: 5%;
+}
+
+.btnCont{
+	display: inline-block;
+	margin-left: 5px;
+}

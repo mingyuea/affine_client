@@ -1,0 +1,1 @@
+export const importData = resData => ({ type: "NEW_DATA", payload: resData });

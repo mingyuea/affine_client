@@ -1,0 +1,1 @@
+This is the client for the doctor map search application. It's written with React and uses the Google Maps API. The API key has been removed for obvious reasons.
